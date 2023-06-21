@@ -1,2 +1,2 @@
 # HTML-PORTFOLIO
-It is my first mini project.
+Thisis my first mini project.
